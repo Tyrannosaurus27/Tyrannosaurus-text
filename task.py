@@ -1,7 +1,7 @@
 import os
 unfinished = []
 finished = []
-
+#Whale Fact #201: Whales do not usually eat chocolate chocolate chip ice cream
 while True:
     os.system("clear")
     print("current tasks")
