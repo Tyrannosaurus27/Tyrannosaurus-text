@@ -9,8 +9,6 @@ while True:
        print("[ ]", task)
     for task in finished:
        print("[x]", task)
-       
-
     print()
     task = input()
     print("You entered", task)
@@ -21,7 +19,8 @@ while True:
         finished.append(task)
     elif task not in unfinished and task in finished:
         finished.remove(task)
-    
+    unfinished.sort()
+    finished.sort()
 
 
     
