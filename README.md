@@ -5,6 +5,4 @@ Keep track of tasks, or delete them to procrastinate!
 ## Contributors:
 
 * Tyrannosaurus
-* Tyrannotitan
-* Tylocephale
-* PterodacTyl
+
