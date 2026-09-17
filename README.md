@@ -6,3 +6,9 @@ Keep track of tasks, or delete them to procrastinate!
 
 * Tyrannosaurus
 
+
+## Tasks
+
+- [x] Add Whale Fact
+- [x] Added Wizard Translation
+- [ ] Added basic spell index 
