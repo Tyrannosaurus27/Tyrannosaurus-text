@@ -40,7 +40,7 @@ Write ingredient lists and instructions for spells, potions and more!
 
   6. Stir brew with tusk until tusk dissolves.
 
- Elixer should look like this upon completion:
+ Elixir should look like this upon completion:
  
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3DAe3Hs1Mws23a3bJW2ci28NlJt1po_-PSJQcHUHSbg&s=10)
 
